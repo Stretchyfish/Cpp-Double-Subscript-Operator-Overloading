@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mmaar\Documents\GitHub\cpp-doubleSubscriptOperator\build\CMakeFiles\0f7d3a73f2a888d77b5cdc975b374d1d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50090B7C-9D53-3710-9E37-A8F339A17B52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\MMAAR\DOCUMENTS\GITHUB\CPP-DOUBLESUBSCRIPTOPERATOR\BUILD\CMAKEFILES\0F7D3A73F2A888D77B5CDC975B374D1D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mmaar/Documents/GitHub/cpp-doubleSubscriptOperator -BC:/Users/mmaar/Documents/GitHub/cpp-doubleSubscriptOperator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mmaar/Documents/GitHub/cpp-doubleSubscriptOperator/build/DoubleSubscript.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
