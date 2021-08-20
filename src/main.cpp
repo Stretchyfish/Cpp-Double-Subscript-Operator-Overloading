@@ -38,8 +38,8 @@ class Matrix
 
         DoubleSubscript operator[](int j)
         {
-            DoubleSubscript something(values, j);
-            return something;
+            DoubleSubscript secondSubscript(values, j);
+            return secondSubscript;
         }
 };
 
