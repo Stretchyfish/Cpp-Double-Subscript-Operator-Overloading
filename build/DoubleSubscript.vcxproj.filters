@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\mmaar\Documents\GitHub\cpp-doubleSubscriptOperator\src\main.cpp">
+    <ClCompile Include="C:\Users\mmaar\Documents\GitHub\cpp-Double-Subscript-Operator-Overloading\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\mmaar\Documents\GitHub\cpp-doubleSubscriptOperator\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\mmaar\Documents\GitHub\cpp-Double-Subscript-Operator-Overloading\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{A1ECFFCC-0FA2-3D10-99D3-211E764673C1}</UniqueIdentifier>
+      <UniqueIdentifier>{70C25CED-5803-3D3D-A566-D33ECA5A4687}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

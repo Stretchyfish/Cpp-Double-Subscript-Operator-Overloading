@@ -17,7 +17,6 @@ class DoubleSubscript
         {
             return values[j][i];
         }
-        
 };
 
 class Matrix
@@ -46,8 +45,8 @@ class Matrix
 int main(int, char**) 
 {
     Matrix A;
+    std::cout << A[1][2] << std::endl;
     A[1][2] = 3;
-    std::cout << A[1][1] << std::endl;
     std::cout << A[1][2] << std::endl;
 }   
 

@@ -1,6 +1,6 @@
-^C:\USERS\MMAAR\DOCUMENTS\GITHUB\CPP-DOUBLESUBSCRIPTOPERATOR\BUILD\CMAKEFILES\0F7D3A73F2A888D77B5CDC975B374D1D\GENERATE.STAMP.RULE
+^C:\USERS\MMAAR\DOCUMENTS\GITHUB\CPP-DOUBLE-SUBSCRIPT-OPERATOR-OVERLOADING\BUILD\CMAKEFILES\9706A4BD7F8E0279DA4F7FE5CFD4A6C1\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mmaar/Documents/GitHub/cpp-doubleSubscriptOperator -BC:/Users/mmaar/Documents/GitHub/cpp-doubleSubscriptOperator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mmaar/Documents/GitHub/cpp-doubleSubscriptOperator/build/DoubleSubscript.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/mmaar/Documents/GitHub/cpp-Double-Subscript-Operator-Overloading -BC:/Users/mmaar/Documents/GitHub/cpp-Double-Subscript-Operator-Overloading/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mmaar/Documents/GitHub/cpp-Double-Subscript-Operator-Overloading/build/DoubleSubscript.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
